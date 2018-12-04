@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="13309" started-at="2018-12-04T10:15:21Z" finished-at="2018-12-04T10:15:34Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="13309" started-at="2018-12-04T10:15:21Z" finished-at="2018-12-04T10:15:34Z">
+      <class name="com.quali.practpack.Verify">
+        <test-method status="PASS" signature="log()[pri:0, instance:com.quali.practpack.Verify@5419f379]" name="log" is-config="true" duration-ms="13270" started-at="2018-12-04T15:45:21Z" finished-at="2018-12-04T15:45:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- log -->
+        <test-method status="PASS" signature="loggedVerify()[pri:0, instance:com.quali.practpack.Verify@5419f379]" name="loggedVerify" duration-ms="16" started-at="2018-12-04T15:45:34Z" finished-at="2018-12-04T15:45:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loggedVerify -->
+      </class> <!-- com.quali.practpack.Verify -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
